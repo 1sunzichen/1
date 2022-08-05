@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T03:08:05.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iO3CK2CdnR-N-HJpq7Ap" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T02:02:16.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qzndHjpe1WSwivR2efDt" version="20.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,11 +82,16 @@
         <mxCell id="lRUitn5sRMCQOZMyPuqV-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRUitn5sRMCQOZMyPuqV-21" target="lRUitn5sRMCQOZMyPuqV-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rrVVFzeD0hqJWhRtqwBm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRUitn5sRMCQOZMyPuqV-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lRUitn5sRMCQOZMyPuqV-21" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:1179813706},[&amp;quot;p&amp;quot;,{&amp;quot;uuid&amp;quot;:&amp;quot;l3b8t54tkflup6r41&amp;quot;,&amp;quot;list&amp;quot;:{&amp;quot;listId&amp;quot;:&amp;quot;go6oheh0hr9&amp;quot;,&amp;quot;level&amp;quot;:0,&amp;quot;isOrdered&amp;quot;:true,&amp;quot;isTaskList&amp;quot;:false,&amp;quot;isChecked&amp;quot;:false,&amp;quot;listStyleType&amp;quot;:&amp;quot;DEC_LEN_LROM_P&amp;quot;,&amp;quot;symbolStyle&amp;quot;:{&amp;quot;color&amp;quot;:&amp;quot;#DFAB01&amp;quot;,&amp;quot;shd&amp;quot;:null},&amp;quot;listStyle&amp;quot;:{&amp;quot;format&amp;quot;:&amp;quot;decimal&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;%1.&amp;quot;,&amp;quot;align&amp;quot;:&amp;quot;left&amp;quot;},&amp;quot;hideSymbol&amp;quot;:false,&amp;quot;extraData&amp;quot;:{}},&amp;quot;ind&amp;quot;:{&amp;quot;left&amp;quot;:0}},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;color&amp;quot;:&amp;quot;#ED7D33&amp;quot;,&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;有获得对应商家的授权，是否有可导入的商品&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color:#ED7D33&quot;&gt;调用接口：是否获得对应商家的授权，是否有可导入的商品&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/article&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="503.75" y="420" width="154.5" height="110" as="geometry" />
+          <mxGeometry x="501.88" y="420" width="158.25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="lRUitn5sRMCQOZMyPuqV-22" value="绑定接单平台" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="755.5" y="445" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lRUitn5sRMCQOZMyPuqV-24" value="不能导入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="445" width="70" height="30" as="geometry" />
@@ -177,6 +182,14 @@
         <mxCell id="rrVVFzeD0hqJWhRtqwBm-16" value="分享" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="820" width="50" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1pnI-4W7wQsX9n98Vaah" name="第 2 页">
+    <mxGraphModel dx="911" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
